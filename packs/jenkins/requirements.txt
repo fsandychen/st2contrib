@@ -1,1 +1,1 @@
-python-jenkins>=0.4.2
+python-jenkins>=0.4.11
